@@ -1,8 +1,11 @@
-# List of Technologies to learn
+# Technologies to learn
 
 - Backend
   - Node.js 
   - Express.js
+    - https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website 
+  - GraphQL
+  - Prisma
 - Frameworks
   - React JS
   - Angular
