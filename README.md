@@ -1,4 +1,4 @@
-# Technologies to learn
+# Technologies and Tools to learn as a Full Stack Developer
 
 ## Backend
 - Language/Server
@@ -8,6 +8,8 @@
 - Database
   - GraphQL
   - Prisma
+- API
+  - Postman https://www.postman.com/
 - Frameworks
   - Redwood.js
     - [ ] https://redwoodjs.com/docs/tutorial/foreword 
