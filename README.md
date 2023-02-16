@@ -3,7 +3,7 @@
 - Backend
   - Node.js 
   - Express.js
-    - https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website 
+    - [ ] https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website 
   - GraphQL
   - Prisma
 - Frameworks
@@ -11,7 +11,7 @@
   - Angular
   - Svelte/Sveltekit
   - Redwood.js
-    - https://redwoodjs.com/docs/tutorial/foreword 
+    - [ ] https://redwoodjs.com/docs/tutorial/foreword 
 - Platforms
   - Vercel
   - Netlify
