@@ -12,12 +12,8 @@
     - [ ] https://www.prisma.io/docs/getting-started/quickstart
 - API
   - Postman https://www.postman.com/
-- Frameworks
-  - Redwood.js
-    - [ ] https://redwoodjs.com/docs/tutorial/foreword 
 - Platforms
   - Vercel
-  - Netlify
   - AWS
   - Azure
 
@@ -32,6 +28,8 @@
     - [ ] https://reactjs.org/docs/hello-world.html
     - [ ] https://reactjs.org/tutorial/tutorial.html
     - Youtube "Intro to React" by Kirupa: https://www.youtube.com/watch?v=O7zy7gVQRIM&list=PL478wQWRhpfaQbaET2DvDzG60EFGThtd1
+  - Redwood.js
+    - [ ] https://redwoodjs.com/docs/tutorial/foreword 
   - Angular
   - Svelte/Sveltekit
 - TypeScript
@@ -43,4 +41,9 @@
   - [ ] https://web.dev/learn/pwa/ 
 - React Native
     - [React Native Tutorial for Beginners - Build a React Native App](https://www.youtube.com/watch?v=0-S5a0eXPoc)
+- CMS
+  - Contentful 
+    - https://www.youtube.com/watch?v=fY3mBJSDA44&list=PL2dKqfImstaRbjzzirbBfv9W2kycaKjvs   
+- Gatsby https://www.gatsbyjs.com/
+- Netlify
   
