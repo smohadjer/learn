@@ -34,7 +34,9 @@
   - Svelte/Sveltekit
 - TypeScript
 
- ## MISC
- - PWA
-   - [ ] https://web.dev/learn/pwa/ 
+## MISC
+- PWA
+  - [ ] https://web.dev/learn/pwa/ 
+- React Native
+    - [React Native Tutorial for Beginners - Build a React Native App](https://www.youtube.com/watch?v=0-S5a0eXPoc)
   
