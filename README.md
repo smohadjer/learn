@@ -7,6 +7,7 @@
     - [ ] https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website 
 - Database
   - GraphQL
+    - [ ] https://livebook.manning.com/book/graphql-in-action/welcome/v-6/ 
   - Prisma
     - [ ] https://www.prisma.io/docs/getting-started/quickstart
 - API
@@ -25,6 +26,7 @@
   - Container Queries
 - JavaScript/ES6+
   - Web Components
+    - https://developer.mozilla.org/en-US/docs/Web/Web_Components 
 - JS Frameworks
   - React
     - [ ] https://reactjs.org/docs/hello-world.html
@@ -33,6 +35,8 @@
   - Angular
   - Svelte/Sveltekit
 - TypeScript
+- Jest https://jestjs.io/
+- Storybook https://storybook.js.org/
 
 ## MISC
 - PWA
