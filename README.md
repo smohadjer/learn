@@ -32,5 +32,7 @@
   - Svelte/Sveltekit
 - TypeScript
 
- 
+ ## MISC
+ - PWA
+   - [ ] https://web.dev/learn/pwa/ 
   
