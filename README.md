@@ -8,6 +8,7 @@
 - Database
   - GraphQL
   - Prisma
+    - https://www.prisma.io/docs/getting-started/quickstart
 - API
   - Postman https://www.postman.com/
 - Frameworks
