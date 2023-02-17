@@ -8,7 +8,7 @@
 - Database
   - GraphQL
   - Prisma
-    - https://www.prisma.io/docs/getting-started/quickstart
+    - [ ] https://www.prisma.io/docs/getting-started/quickstart
 - API
   - Postman https://www.postman.com/
 - Frameworks
@@ -27,6 +27,7 @@
   - Web Components
 - JS Frameworks
   - React JS
+    - [ ] https://reactjs.org/docs/hello-world.html 
   - Angular
   - Svelte/Sveltekit
 - TypeScript
