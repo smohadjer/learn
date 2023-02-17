@@ -26,8 +26,9 @@
 - JavaScript/ES6+
   - Web Components
 - JS Frameworks
-  - React JS
-    - [ ] https://reactjs.org/docs/hello-world.html 
+  - React
+    - [ ] https://reactjs.org/docs/hello-world.html
+    - [ ] https://reactjs.org/tutorial/tutorial.html
   - Angular
   - Svelte/Sveltekit
 - TypeScript
