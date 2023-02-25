@@ -17,6 +17,7 @@
   - AWS
   - Azure
   - GitHub
+    - REST API https://docs.github.com/en/rest?apiVersion=2022-11-28
     - [ ] [Getting started with GitHub REST API](https://docs.github.com/en/rest/guides/getting-started-with-the-rest-api?apiVersion=2022-11-28)
 
 ## Frontend
