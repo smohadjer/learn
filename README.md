@@ -14,6 +14,8 @@
   - Postman https://www.postman.com/
 - Platforms
   - Vercel
+  - Netlify
+  - Railway
   - AWS
   - Azure
   - GitHub
