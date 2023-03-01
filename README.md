@@ -14,6 +14,8 @@
   - Postman https://www.postman.com/
 - Platforms
   - Vercel
+    - [Getting started with Serverless Functions using Vercel](https://dev.to/this-is-learning/getting-started-with-serverless-functions-using-vercel-i-52o7)
+    - https://vercel.com/guides
   - Netlify
   - Railway
   - AWS
