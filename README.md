@@ -53,5 +53,3 @@
     - https://www.youtube.com/watch?v=fY3mBJSDA44&list=PL2dKqfImstaRbjzzirbBfv9W2kycaKjvs
   - Storyblok https://www.storyblok.com/
 - Gatsby https://www.gatsbyjs.com/
-- Netlify
-  
