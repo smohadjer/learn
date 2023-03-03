@@ -14,16 +14,15 @@
     - [ ] https://www.prisma.io/docs/getting-started/quickstart
 - API
   - Postman https://www.postman.com/
-- Platforms
+- Platforms/Cloud
   - Vercel
     - [Getting started with Serverless Functions using Vercel](https://dev.to/this-is-learning/getting-started-with-serverless-functions-using-vercel-i-52o7)
     - https://vercel.com/guides
   - Netlify
   - Railway
-  - AWS
-  - Azure
-  - GitHub
+  - GitHub API
     - REST API https://docs.github.com/en/rest?apiVersion=2022-11-28
+    - [Adding search capability to a static blog using the GitHub API](https://www.codejam.info/2021/07/search-static-blog-github-api.html)
 
 ## Frontend
 - CSS
@@ -54,3 +53,5 @@
     - https://www.youtube.com/watch?v=fY3mBJSDA44&list=PL2dKqfImstaRbjzzirbBfv9W2kycaKjvs
   - Storyblok https://www.storyblok.com/
 - Gatsby https://www.gatsbyjs.com/
+- AWS
+- Azure
