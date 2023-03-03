@@ -5,6 +5,7 @@
   - Node.js
     - https://nodejs.dev/en/learn 
     - [Understanding Streams in Node.js](https://nodesource.com/blog/understanding-streams-in-nodejs/)
+    - [Send mail using Node.js, Express.js with Nodemailer](https://medium.com/coox-tech/send-mail-using-node-js-express-js-with-nodemailer-93f4d62c83ee)
   - Express.js
     - [ ] https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website 
 - Database
