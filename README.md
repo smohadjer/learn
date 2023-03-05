@@ -1,4 +1,4 @@
-# Technologies and Tools to learn as a Full Stack Developer
+# Full-Stack Developer
 
 ## Backend
 - Language/Server
