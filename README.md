@@ -9,6 +9,7 @@
   - Express.js
     - [ ] https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website 
 - Database
+  - MongoDB
   - GraphQL
     - [ ] https://livebook.manning.com/book/graphql-in-action/welcome/v-6/ 
   - Prisma
