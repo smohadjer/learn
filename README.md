@@ -1,13 +1,16 @@
 # Full-Stack Developer
 
 ## Backend
-- Language/Server
-  - Node.js
+- Node.js
     - https://nodejs.dev/en/learn 
     - [Understanding Streams in Node.js](https://nodesource.com/blog/understanding-streams-in-nodejs/)
     - [Send mail using Node.js, Express.js with Nodemailer](https://medium.com/coox-tech/send-mail-using-node-js-express-js-with-nodemailer-93f4d62c83ee)
-  - Express.js
-    - [ ] https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website 
+  - Node Frameworks
+    - Express.js
+      - [ ] https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website 
+    - Redwood https://github.com/redwoodjs/redwood
+      - [ ] https://redwoodjs.com/docs/tutorial/foreword 
+    - Next.js https://github.com/vercel/next.js
 - Database
   - MongoDB
     - [ ] https://stackabuse.com/integrating-mongodb-with-node-js/
@@ -38,9 +41,6 @@
     - [ ] https://reactjs.org/docs/hello-world.html
     - [ ] https://reactjs.org/tutorial/tutorial.html
     - Youtube "Intro to React" by Kirupa: https://www.youtube.com/watch?v=O7zy7gVQRIM&list=PL478wQWRhpfaQbaET2DvDzG60EFGThtd1
-  - Redwood.js
-    - [ ] https://redwoodjs.com/docs/tutorial/foreword 
-  - Angular
   - Svelte/Sveltekit
 - TypeScript
 - Jest https://jestjs.io/
@@ -58,3 +58,4 @@
 - Gatsby https://www.gatsbyjs.com/
 - AWS
 - Azure
+- Angular
