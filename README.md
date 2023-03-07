@@ -32,6 +32,8 @@
 
 ## Frontend
 - CSS
+  - Tailwind 
+  - Bootstrap 
   - Container Queries
 - JavaScript/ES6+
   - Web Components
