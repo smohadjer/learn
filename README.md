@@ -43,6 +43,7 @@
     - [ ] https://reactjs.org/docs/hello-world.html
     - [ ] https://reactjs.org/tutorial/tutorial.html
     - Youtube "Intro to React" by Kirupa: https://www.youtube.com/watch?v=O7zy7gVQRIM&list=PL478wQWRhpfaQbaET2DvDzG60EFGThtd1
+    - [ ] https://www.robinwieruch.de/react-function-component/
   - Svelte/Sveltekit
 - TypeScript
 - Jest https://jestjs.io/
