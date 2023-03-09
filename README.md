@@ -8,9 +8,9 @@
   - Node Frameworks
     - Express.js
       - https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website 
-    - Redwood https://github.com/redwoodjs/redwood
+    - Redwood.js
       - https://redwoodjs.com/docs/tutorial/foreword 
-    - Next.js https://github.com/vercel/next.js
+    - Next.js
 - Database
   - MongoDB
     - https://stackabuse.com/integrating-mongodb-with-node-js/
