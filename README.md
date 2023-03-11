@@ -24,7 +24,7 @@
   - Vercel
     - https://dev.to/this-is-learning/getting-started-with-serverless-functions-using-vercel-i-52o7
     - https://vercel.com/guides
-    - How to Load Data from a File in Next.js
+    - [How to Load Data from a File in Next.js](https://vercel.com/guides/loading-static-file-nextjs-api-route)
   - Netlify
   - Railway
   - GitHub API
