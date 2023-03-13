@@ -13,6 +13,7 @@
     - Next.js
 - Database
   - MongoDB
+    - https://www.w3schools.com/nodejs/nodejs_mongodb.asp 
     - https://stackabuse.com/integrating-mongodb-with-node-js/
   - GraphQL
     - https://livebook.manning.com/book/graphql-in-action/welcome/v-6/ 
